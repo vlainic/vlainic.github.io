@@ -1,5 +1,19 @@
 ## Welcome onblog
 
+I will use the GitHub page to write what am I generally experiencing as **Machine Learning Analyst** and **Prediction Engineer**.
+
+Note that I am avoding to use word **Data Scientist**. The reason is twofold:
+- the term became an "unicorn" position and the buzz-word
+- real Data Scientist should have knowledge of the following things:
+  - good understanding of math and statistics
+  - programming languages: Python/R, SQL, etc.
+  - knowledge of machine learning models
+  - business/industry-relevant domain knowledge
+
+I could say that I cover the first three with more-or-less with some experience (SQL being the most vague one). However, except applied physics I do not have real business domain. Hence I do not see myself as Data Scientist (yet!).
+
+
+
 <!--
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/vlaki1989/vlaki1989.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
