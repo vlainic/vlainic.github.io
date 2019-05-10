@@ -10,7 +10,7 @@ Note that I am avoding to use word **Data Scientist**. The reason is twofold:
   - knowledge of machine learning models
   - business/industry-relevant domain knowledge
 
-I could say that I cover the first three with more-or-less with some experience (SQL being the most vague one). However, except applied physics I do not have real business domain. Hence I do not see myself as Data Scientist (yet!).
+I could say that I cover the first three with more-or-less some experience (SQL being the most vague one). However, as applied physicsist I do not have real money-making domain. Hence I do not see myself as Data Scientist (yet!).
 
 
 
