@@ -12,6 +12,12 @@ Note that I am avoding to use word **Data Scientist**. The reason is twofold:
 
 I could say that I cover the first three with more-or-less some experience (SQL being the most vague one). However, as applied physicsist I do not have real money-making domain. Hence I do not see myself as Data Scientist (yet!).
 
+## [E.2] AML - Natural Language Processing: Telegram Chat-bot
+
+Helpful AWS/Docker insights for [Natural Language Processing](https://www.coursera.org/learn/language-processing) course, that is part of the Coursera's [Advanced Machine Learning](https://www.coursera.org/specializations/aml) specialization.
+
+[Click here](/aml_nlp.md) for more details.
+
 ## [E.1] AML - Reinforcement Learning assignment typos
 
 Helpful coding insights for [Reinforcement Learning](https://www.coursera.org/learn/practical-rl/home/welcome) course, that is part of the Coursera's [Advanced Machine Learning](https://www.coursera.org/specializations/aml) specialization.
