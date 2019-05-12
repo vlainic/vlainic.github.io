@@ -45,7 +45,7 @@ I tried to swap with 2GB, but it was not enough. This was maximum possible, as A
 
 So I had to increase AWS storage. This was done while making Instance as followed from [AWS instructions](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html#ec2-launch-instance) and then before Step 5, I would go "Next: ...." until I do not end up on the storage page. Here I set 30GB (which is maximum for Free Tier!!!) instead of 8GB. Than 15000-20000 counts with bs=1M did the job B-)
 
-## ASCII error
+### ASCII error
 
 When running, there was an error (do not mind the numbers):
 
