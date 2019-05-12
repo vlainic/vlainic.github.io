@@ -1,6 +1,6 @@
 ## Welcome *ablog*
 
-I will use the GitHub page to write what am I generally experiencing as **Machine Learning Analyst** and **Prediction Engineer**.
+I will use <u>the GitHub Pages</u> to write what am I generally experiencing as **Machine Learning Analyst** and **Prediction Engineer**.
 
 Note that I am avoding to use word **Data Scientist**. The reason is twofold:
 - the term became an "unicorn" position and the buzz-word
