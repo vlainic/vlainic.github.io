@@ -14,7 +14,7 @@ I could say that I cover the first three with more-or-less some experience (SQL 
 
 ## [E.2] AML - Natural Language Processing: Telegram Chat-bot
 
-Helpful AWS+Docker trick/tips for [Natural Language Processing](https://www.coursera.org/learn/language-processing){:target="_blank" rel="noopener"} course, that is part of the Coursera's [Advanced Machine Learning](https://www.coursera.org/specializations/aml) specialization.
+Helpful AWS+Docker trick/tips for [Natural Language Processing](https://www.coursera.org/learn/language-processing){target="_blank" rel="noopener"} course, that is part of the Coursera's [Advanced Machine Learning](https://www.coursera.org/specializations/aml) specialization.
 
 [Click here](/aml_nlp.md) for more details.
 
