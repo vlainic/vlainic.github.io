@@ -1,4 +1,4 @@
-## Welcome onblog
+## Welcome *ablog*
 
 I will use the GitHub page to write what am I generally experiencing as **Machine Learning Analyst** and **Prediction Engineer**.
 
@@ -12,12 +12,13 @@ Note that I am avoding to use word **Data Scientist**. The reason is twofold:
 
 I could say that I cover the first three with more-or-less some experience (SQL being the most vague one). However, as applied physicsist I do not have real money-making domain. Hence I do not see myself as Data Scientist (yet!).
 
-# Blog 1
+## [E.1] AML - Reinforcement Learning assignment typos
 
-Ovde je lose: [aml_rl](https://github.com/vlaki1989/vlainic.github.io/master/aml_rl.md)
+Helpful coding insights for [Reinforcement Learning](https://www.coursera.org/learn/practical-rl/home/welcome) course, that is part of the Coursera's [Advanced Machine Learning](https://www.coursera.org/specializations/aml) specialization.
 
-Ovde je ceo tekst: [aml_rl](/aml_rl.md)
+[Click here](/aml_rl.md) for more details.
 
+<!--
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/vlaki1989/vlaki1989.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -40,5 +41,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vlaki1989/vlaki1989.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-<!--
 -->
