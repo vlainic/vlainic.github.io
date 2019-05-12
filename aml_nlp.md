@@ -24,13 +24,7 @@ and this you can find on [AWS guide for Docker installation](https://docs.aws.am
 
 Even though I had only 112 thousand embedded words, 1GB memory on AWS machine did not show to be enough for my chatbot to load. Practically this happened:
 
-[[/bot_killed_1.png|alt=octocat]
-
-[[https://cdn.steemitimages.com/DQmdBsCuDZhqsUe7ZrHTKougXZMZvjvNpP5djbMCXgcy9oW/bot_killed_1.png|alt=octocat]]
-
-<center>
-    ![bot_killed_1.png](https://cdn.steemitimages.com/DQmdBsCuDZhqsUe7ZrHTKougXZMZvjvNpP5djbMCXgcy9oW/bot_killed_1.png)
-</center>
+![bot_killed_1](/images/bot_killed_1.png)
 
 The solution I found that works for me is **swapping**. Most of the practical commands can be found on [this link](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-16-04), while *fallocate* line should be changed with *dd* line [from here](https://www.digitalocean.com/community/questions/sudo-swapon-swapfile-error).
 
