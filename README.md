@@ -14,7 +14,7 @@ I could say that I cover the first three with more-or-less some experience (SQL 
 
 # Blog 1
 
-Ovde je ceo tekst: [aml_rl](https://github.com/vlaki1989/vlainic.github.io/edit/master/aml_rl.md)
+Ovde je ceo tekst: [aml_rl](https://github.com/vlaki1989/vlainic.github.io/master/aml_rl.md)
 
 <!--
 ## Welcome to GitHub Pages
