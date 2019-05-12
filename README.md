@@ -14,7 +14,9 @@ I could say that I cover the first three with more-or-less some experience (SQL 
 
 # Blog 1
 
-Ovde je ceo tekst: [aml_rl](https://github.com/vlaki1989/vlainic.github.io/master/aml_rl.md)
+Ovde je lose: [aml_rl](https://github.com/vlaki1989/vlainic.github.io/master/aml_rl.md)
+
+Ovde je ceo tekst: [aml_rl](/aml_rl.md)
 
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/vlaki1989/vlaki1989.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
