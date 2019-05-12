@@ -12,7 +12,9 @@ Note that I am avoding to use word **Data Scientist**. The reason is twofold:
 
 I could say that I cover the first three with more-or-less some experience (SQL being the most vague one). However, as applied physicsist I do not have real money-making domain. Hence I do not see myself as Data Scientist (yet!).
 
+# Blog 1
 
+Ovde je ceo tekst: [aml_rl](https://github.com/vlaki1989/vlainic.github.io/edit/master/aml_rl.md)
 
 <!--
 ## Welcome to GitHub Pages
