@@ -17,7 +17,7 @@ One should only use **t**!!!
 
 ### Week 6 / Assignment 8 - "Bandirs & exploration":
 
-### Change 1 - class BernoulliBandit:
+#### Change 1 - class BernoulliBandit:
 
 > class BernoulliBandit:
 >> def pull(self, action):
@@ -30,7 +30,7 @@ changed to:
 
 i.e. the condition is put under **np.any()**.
 
-### Change 2 - def plot_regret:
+#### Change 2 - def plot_regret:
 
 >def plot_regret(scores):
 
@@ -42,7 +42,7 @@ changed to
 
 i.e. **agent.name** is changed to solely **agent**.
 
-### Change 3 - submission:
+#### Change 3 - submission:
 
 Instead of **submit_bandits**, make new function **submit_bandits2** in submit.py:
 
@@ -68,7 +68,7 @@ Instead of **submit_bandits**, make new function **submit_bandits2** in submit.p
         grader.set_answer("TvOqm", (int(scores[epsilon_greedy_agent][int(5e3) - 1]) - int(scores[thompson_sampling_agent][int(5e3) - 1])))
         grader.submit(email, token)
 
-## Week 6 / Assignment 9 - "MCTS":
+### Week 6 / Assignment 9 - "MCTS":
 
 > class WithSnapshots(Wrapper):
 >> def load_snapshot(self,snapshot):
