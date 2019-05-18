@@ -1,4 +1,4 @@
-## Infographic Diagram of *A. Burkov "The Hundred-Page Machine Learning Book"*
+## [E.3] Infographic Diagram of *A. Burkov "The Hundred-Page Machine Learning Book"*
 
 While reading Andriy's [*The Hundred-Page Machine Learning Book*](http://themlbook.com/) for the first time I took several notes. But when I reached the end I realized that there are planty of useful basic advices and guides, that are easily forgotten if one does not use them in regular basis. Notice, even though they are basic we do forgot things...
 
