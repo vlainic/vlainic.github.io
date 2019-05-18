@@ -10,4 +10,4 @@ Here is a preview JPG:
 
 **IMPORTANT NOTICE: IN [THE SAME FOLDER](https://github.com/vlainic/vlainic.github.io/tree/master/images/burkov) THERE ARE HIGH-RESOLUTION .PDF, .PNG and .JPG FILES, AS THE SOURCE FILE .DRAWIO**
 
-The diagram is made with an open-source browser tool [draw.io](https://draw.io)
+The diagram is made with an open-source browser-tool [draw.io](https://draw.io)
