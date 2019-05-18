@@ -8,6 +8,6 @@ Here is the preview JPG:
 
 ![burkov_jpg_small](/images/burkov/Burkov_100ml_small.jpg)
 
-**IMPORTANT NOTICE: IN [THE SAME FOLDER](https://github.com/vlainic/vlainic.github.io/tree/master/images/burkov) THERE ARE HIGH-RESOLUTION .PDF, .PNG and .JPG FILES, AS THE SOURCE FILE .DRAWIO**
+**IMPORTANT NOTICE**: In [this folder](https://github.com/vlainic/vlainic.github.io/tree/master/images/burkov) there are **HIGH-RESOLUTION .PDF**, **.PNG** and **.JPG** files, as the srouce file **.DRAWIO**
 
 The diagram is made with an open-source browser-tool [draw.io](https://draw.io)
